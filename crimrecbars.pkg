@@ -1,0 +1,4 @@
+package crimrecbars
+version 1.0
+install crimrecbars.ado
+install crimrecbars.sthlp
