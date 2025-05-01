@@ -1,2 +1,2 @@
 <stata>
-<package name="crimrecbars" title="Plots marginal effects of criminal record across job types">
+<package name="crimrecbars.pkg.txt" title="Plots marginal effects of criminal record across job types">
