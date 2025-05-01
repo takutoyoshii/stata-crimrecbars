@@ -101,3 +101,5 @@ esttab reg_city reg_custserv reg_manual reg_interact reg_race reg_controls using
 * Stratified regressions (blocking by city)
 esttab reg_block_suburb reg_block_city using "pager_blocking.tex", ///
     replace se label compress title("Effect of Criminal Record by Location: Stratified Models")
+	
+end
