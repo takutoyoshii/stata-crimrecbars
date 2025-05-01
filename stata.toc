@@ -1,0 +1,2 @@
+<stata>
+<package name="crimrecbars" desc="Plots marginal effects of criminal record across job types">
