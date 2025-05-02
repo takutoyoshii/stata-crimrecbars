@@ -7,4 +7,7 @@
 To install the command directly in Stata, run:
 
 ```stata
-net install crimrecbars, from("https://takutoyoshii.github.io/stata-crimrecbars/")
+copy "https://raw.githubusercontent.com/takutoyoshii/stata-crimrecbars/main/crimrecbars.ado" "crimrecbars.ado", replace
+
+copy "https://raw.githubusercontent.com/takutoyoshii/stata-crimrecbars/main/crimrecbars.sthlp" "crimrecbars.sthlp", replace
+
