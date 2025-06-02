@@ -1,5 +1,4 @@
 * pager_analysis_bars.do
-* Author: [Your Name]
 * Purpose: Regression + Margins + Bar Plots + Extensions (from lectures)
 
 program define crimrecbars
