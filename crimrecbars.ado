@@ -1,5 +1,6 @@
 * pager_analysis_bars.do
-* Purpose: Regression + Margins + Bar Plots + Extensions (from lectures)
+* Author: Takuto Yoshii
+* Purpose: Regression + Margins + Bar Plots + Extensions
 
 program define crimrecbars
     version 17.0
